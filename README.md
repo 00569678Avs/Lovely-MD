@@ -8,7 +8,7 @@
 <img src = "https://files.catbox.moe/bqs70b.jpg"  width="300" height="200">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=LOVELY-MD+MD+WHATSAPP+BOT+MD" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=LOVELY-MD+WHATSAPP+BOT" alt="">
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF LOVELY-MD 
-- [Lord Malvin ](https://github.com/00569678Avs)
+- [AVS_ ](https://github.com/00569678Avs)
 - Creater and Owner Of LOVELY-MD
 
 > LOVELY-MD Helper
-- [Malvin King](https://github.com/00569678Avs)
+- [DILSHAN](https://github.com/00569678Avs)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
